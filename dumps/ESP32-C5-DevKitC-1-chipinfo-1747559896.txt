@@ -1,0 +1,102 @@
+
+Getting ESP Chip Info...
+
+
+Chip ID:
+esptool.py v4.9.dev8
+Serial port /dev/ttyUSB0
+Connecting....
+Detecting chip type... ESP32-C5
+Chip is ESP32-C5 (revision v1.0)
+Features: WiFi 6, BT 5, IEEE802.15.4
+Crystal is 48MHz
+MAC: 30:ed:a0:ff:fe:e4:6a:d4
+BASE MAC: 30:ed:a0:e4:6a:d4
+MAC_EXT: ff:fe
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Warning: ESP32-C5 has no Chip ID. Reading MAC instead.
+MAC: 30:ed:a0:ff:fe:e4:6a:d4
+BASE MAC: 30:ed:a0:e4:6a:d4
+MAC_EXT: ff:fe
+Hard resetting via RTS pin...
+
+Flash ID:
+esptool.py v4.9.dev8
+Serial port /dev/ttyUSB0
+Connecting....
+Detecting chip type... ESP32-C5
+Chip is ESP32-C5 (revision v1.0)
+Features: WiFi 6, BT 5, IEEE802.15.4
+Crystal is 48MHz
+MAC: 30:ed:a0:ff:fe:e4:6a:d4
+BASE MAC: 30:ed:a0:e4:6a:d4
+MAC_EXT: ff:fe
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Manufacturer: 20
+Device: 4017
+Detected flash size: 8MB
+Hard resetting via RTS pin...
+
+Flash Status:
+esptool.py v4.9.dev8
+Serial port /dev/ttyUSB0
+Connecting....
+Detecting chip type... ESP32-C5
+Chip is ESP32-C5 (revision v1.0)
+Features: WiFi 6, BT 5, IEEE802.15.4
+Crystal is 48MHz
+MAC: 30:ed:a0:ff:fe:e4:6a:d4
+BASE MAC: 30:ed:a0:e4:6a:d4
+MAC_EXT: ff:fe
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Status value: 0x0200
+Hard resetting via RTS pin...
+
+Security Info:
+esptool.py v4.9.dev8
+Serial port /dev/ttyUSB0
+Connecting....
+Detecting chip type... ESP32-C5
+Chip is ESP32-C5 (revision v1.0)
+Features: WiFi 6, BT 5, IEEE802.15.4
+Crystal is 48MHz
+MAC: 30:ed:a0:ff:fe:e4:6a:d4
+BASE MAC: 30:ed:a0:e4:6a:d4
+MAC_EXT: ff:fe
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+
+Security Information:
+=====================
+Flags: 0x00000000 (0b0)
+Key Purposes: (0, 0, 0, 0, 0, 0, 19)
+  BLOCK_KEY0 - USER/EMPTY
+  BLOCK_KEY1 - USER/EMPTY
+  BLOCK_KEY2 - USER/EMPTY
+  BLOCK_KEY3 - USER/EMPTY
+  BLOCK_KEY4 - USER/EMPTY
+  BLOCK_KEY5 - USER/EMPTY
+Chip ID: 23
+API Version: 2
+Secure Boot: Disabled
+Flash Encryption: Disabled
+SPI Boot Crypt Count (SPI_BOOT_CRYPT_CNT): 0x0
+Hard resetting via RTS pin...
+
+All donsies~ :3
+
