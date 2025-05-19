@@ -1,0 +1,8 @@
+ee8e7f27281c1c357fc5722f95ab6a99941423b2a2b0594de672f8ea7af3ff84  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-Cache-MMU-External-Memory-0x41000000-0xFFFFFF-180525151829.bin
+2f09d19ce384a3c4379f2b66cfc97e0aa19a13b014b9b123816c1a0bcc06add5  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-CPU-Sub-System-0x20000000-0xFFFFFF-180525151829.bin
+115f3ce7e70175a71bda63642463ac1f5c6b3f91bc4804f8b5d56a7ac7930a8a  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-HP-Memory-0x40800000-0x7FFFF-180525151829.bin
+b9a47f7281282de83e768e69982842f86b90d4b982135495dfaab9def98e8db5  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-LP-Memory-0x50000000-0x3FFF-180525151829.bin
+c57d76e32bd5617476f60c72fae867ed60d0631a286b5d190142e149ad1cba8c  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-Peripherals-0-0x60000000-0xBFFFF-180525151829.bin
+860c4c69a3cfdd4438b05de22e3c2dbec5225f45744ca5a605e545f764dced36  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-Peripherals-1-0x600C0000-0xFFFF-180525151829.bin
+2d9aeb262e1ffd99866fd88388a8b4029d6e815a354576faa359a22e0507ad4c  ./live-roms/esp32c5-devkitc-1-stub-180525151829/esp32c5-devkitc-1-stub-esp32c5-ROM-0x40000000-0x4FFFF-180525151829.bin
+845e65fd93e0fe0d8469f205e361447e064ac229aa301600a320f4366c6d553f  ./live-roms/esp32c5-devkitc-1-stub-180525151829/log-esp32c5-devkitc-1-stub-180525151829.txt
